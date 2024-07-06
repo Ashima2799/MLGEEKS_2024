@@ -1,0 +1,7 @@
+Jupyter Keyboard Shortcuts:
+Shift + Enter:	Runs the current cell and moves to the next cell. If there is no next cell, it creates a new cell below.
+Esc + M:	Changes the current cell to a Markdown cell. Markdown cells are used for writing text, including formatting, links, and images.
+Esc + Y:	Changes the current cell to a code cell. Code cells are used for writing and executing Python code.
+Esc + A:	Inserts a new cell above the current cell.
+Esc + B:	Inserts a new cell below the current cell.
+Esc + D+D: 	Deletes the current cell. The "D" key must be pressed twice in quick succession.
